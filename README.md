@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Project include a web app, firebase server and React native mobile app.
+
+The core feature is to use Nfc enabled mobile phone to scan nfc tag and send the timeStamp to the web app table. 
+
+Nfc Tag would have been recorded its location, the tag, thus, is to be scanned and sent the Time to web site 
+
+
+Please change firebase env to run the project
+
+
+Below link is the mobile app
+https://github.com/gordonTang2049/eagleScecureMobile
+
+
 
 ## Available Scripts
 
