@@ -1,17 +1,20 @@
-This Project include a web app, firebase server and React native mobile app.
+This Project includes a web app, firebase server and React native mobile app.
 
-The core feature is to use Nfc enabled mobile phone to scan nfc tag and send the timeStamp to the web app table. 
+The core feature is to use Nfc enabled mobile phone to scan nfc tag and send the clock-in time to the web app table.
 
-Nfc Tag would have been recorded its location, the tag, thus, is to be scanned and sent the Time to web site 
-
+Nfc Tag would have been recorded its location, so the clock-in time is to prove the staff has visited the location.
 
 Please change firebase env to run the project
+
+Sign-in Page
+![Sign-in](./SigninPage_filled.PNG)
+
+Table of Scanned Tag 
+![Scanned Tag](./List_of_scanned_tag.PNG)
 
 
 Below link is the mobile app
 https://github.com/gordonTang2049/eagleScecureMobile
-
-
 
 ## Available Scripts
 
